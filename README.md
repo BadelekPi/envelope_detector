@@ -1,6 +1,6 @@
 
 ## Fourier transform
-<p align="center"><img width="1400" height="724" src="doc/bla.jpg"></p>
+<p align="center"><img width="1400" height="724" src="doc/doc/fourier_transform_equation.jpg"></p>
 
 ## References
 https://en.wikipedia.org/wiki/Envelope_detector
