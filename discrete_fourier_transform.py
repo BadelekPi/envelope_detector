@@ -19,7 +19,11 @@ plt.subplot(1,2,2)
 plt.plot(y, abs(F), "r", label="magnitude")
 plt.legend()
 
-### Denoising data : FFT 
+
+"""
+Denoising data with Fast Fourier transform
+Find peaks which have many power spectral density value
+""" 
 dt = 0.001
 t = np.arange(0, 1, dt)
 # Sum of 2 freqs
