@@ -10,5 +10,6 @@ The idea of this transform: alternative method for extracting information about 
 
 ## References
 https://en.wikipedia.org/wiki/Envelope_detector
-
 https://stackoverflow.com/questions/32220053/how-to-find-envelope-of-uneven-waveform
+Denoising Data with FFT : Steve Brunton : https://www.youtube.com/watch?v=s2K1JfNR7Sc
+
